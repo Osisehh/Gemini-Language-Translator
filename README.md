@@ -10,11 +10,11 @@ The Gemini Language Translator leverages the power of **Large Language Models (L
 
 ## 📸 Screenshots
 
-### Translate English to Yoruba 🇬🇧➡️🇫🇷  
-![French Translation](/images/french_example.png)
+### Translate English to Yoruba 🇬🇧➡️🇳🇬 
+![Yoruba Translation](/images/Yoruba-example.png)
 
-### Translate Spanish to Chinese 🇸🇦➡️🇨🇳  
-![Chinese Translation](/images/chinese_example.png)
+### Translate Spanish to English 🇪🇸➡️🇬🇧
+![Chinese Translation](/images/English-example.png)
 
 ---
 
